@@ -32,6 +32,8 @@
 
 **RIVA Training Centre** - игровое направление проекта в Roblox, связанное с тренировками, боевыми сценариями и развитием игровой вселенной RIVA.
 
+- **[RIVA Training Centre](https://www.roblox.com/share?code=71c07453ca97014f8f795fd4a3db88e0&type=ExperienceDetails&stamp=1793373384402)** - игра в Roblox
+
 ## Лор RIVA
 
 ### Хроники налогового фронта
