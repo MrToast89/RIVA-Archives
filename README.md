@@ -80,7 +80,7 @@
 
 **Полный лор RIVA «Хроники налогового фронта» прикреплён к этому репозиторию и доступен для чтения.**
 
-- **[RIVA Archive](https://www.roblox.com/share?code=71c07453ca97014f8f795fd4a3db88e0&type=ExperienceDetails&stamp=1793373384402)** - ну или если не получается найти то вот отсюда можете
+- **[RIVA Archive](https://cdn.discordapp.com/attachments/1361664793450254477/1566570200814325770/RIVA_Chronicles_Proofread.pdf?ex=6ae905b1&is=6ae7b431&hm=553b97159709f329dc14511ee229daae9e51f53cedc67807dbda33c89c512af2&)** - ну или если не получается найти то вот отсюда можете
 
 Ниже вы можете ознакомиться с полной историей RIVA, её событиями и развитием.
 
